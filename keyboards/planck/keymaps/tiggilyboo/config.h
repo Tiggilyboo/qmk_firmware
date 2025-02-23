@@ -4,5 +4,8 @@
     #define STARTUP_SONG SONG(NO_SOUND)
 #endif
 
-#define ENCODER_RESOLUTION 4
+#define QMK_ESC_OUTPUT F1
+#define QMK_ESC_INPUT D5
+#define QMK_LED E6
+#define QMK_SPEAKER C6
 
